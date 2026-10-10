@@ -1,0 +1,6 @@
+{
+  "name": "Wharton Growth Sleeve Research & Decision Observatory",
+  "description": "Professional quantitative investment research observatory for the Wharton Global High School Investment Competition with auditability, security analysis, portfolio fit, stress testing, and CIO decision governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
